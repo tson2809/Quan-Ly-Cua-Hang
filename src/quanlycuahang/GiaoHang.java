@@ -1,4 +1,4 @@
-package quanlysinhvien;
+package quanlycuahang;
 
 public class GiaoHang {
     

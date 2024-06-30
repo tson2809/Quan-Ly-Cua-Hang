@@ -1,7 +1,5 @@
-
 package quanlycuahang;
 
-
-public class Main {
+public class DoanhThu {
     
 }
